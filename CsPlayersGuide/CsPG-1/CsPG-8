@@ -1,0 +1,29 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CsPG_8 {
+	static class Program {
+		static void Main(string[] args) {
+			Console.WriteLine("Please enter the radius of the cylinder: ");
+			string radiusString = Console.ReadLine();
+			double radius = Convert.ToDouble(radiusString);
+
+			Console.WriteLine("Please enter the height of the cylinder: ");
+			string heightString = Console.ReadLine();
+			double height = Convert.ToDouble(heightString);
+
+			double pi = 3.1415926;
+			double cylinderVolume = pi*radius*radius*height;
+			double cylinderSurfaceArea = 2 * pi * radius*(radius + height);
+
+			Console.WriteLine($"The volume of the cylinder is {cylinderVolume}");
+			Console.WriteLine($"The surface area of the cylinder is {cylinderSurfaceArea}");
+
+			Console.ReadKey();
+
+		}
+	}
+}
