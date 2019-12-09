@@ -1,0 +1,11 @@
+C:\repos\Csharpening\CsPlayersGuide\CsPG-10\CsPG-10\bin\Debug\netcoreapp3.0\CsPG-10.exe
+C:\repos\Csharpening\CsPlayersGuide\CsPG-10\CsPG-10\bin\Debug\netcoreapp3.0\CsPG-10.deps.json
+C:\repos\Csharpening\CsPlayersGuide\CsPG-10\CsPG-10\bin\Debug\netcoreapp3.0\CsPG-10.runtimeconfig.json
+C:\repos\Csharpening\CsPlayersGuide\CsPG-10\CsPG-10\bin\Debug\netcoreapp3.0\CsPG-10.runtimeconfig.dev.json
+C:\repos\Csharpening\CsPlayersGuide\CsPG-10\CsPG-10\bin\Debug\netcoreapp3.0\CsPG-10.dll
+C:\repos\Csharpening\CsPlayersGuide\CsPG-10\CsPG-10\bin\Debug\netcoreapp3.0\CsPG-10.pdb
+C:\repos\Csharpening\CsPlayersGuide\CsPG-10\CsPG-10\obj\Debug\netcoreapp3.0\CsPG-10.csprojAssemblyReference.cache
+C:\repos\Csharpening\CsPlayersGuide\CsPG-10\CsPG-10\obj\Debug\netcoreapp3.0\CsPG-10.AssemblyInfoInputs.cache
+C:\repos\Csharpening\CsPlayersGuide\CsPG-10\CsPG-10\obj\Debug\netcoreapp3.0\CsPG-10.AssemblyInfo.cs
+C:\repos\Csharpening\CsPlayersGuide\CsPG-10\CsPG-10\obj\Debug\netcoreapp3.0\CsPG-10.dll
+C:\repos\Csharpening\CsPlayersGuide\CsPG-10\CsPG-10\obj\Debug\netcoreapp3.0\CsPG-10.pdb
