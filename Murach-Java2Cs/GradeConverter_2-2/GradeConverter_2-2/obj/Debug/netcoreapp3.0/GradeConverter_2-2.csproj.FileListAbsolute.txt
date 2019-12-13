@@ -1,0 +1,10 @@
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\GradeConverter_2-2\GradeConverter_2-2\bin\Debug\netcoreapp3.0\GradeConverter_2-2.exe
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\GradeConverter_2-2\GradeConverter_2-2\bin\Debug\netcoreapp3.0\GradeConverter_2-2.deps.json
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\GradeConverter_2-2\GradeConverter_2-2\bin\Debug\netcoreapp3.0\GradeConverter_2-2.runtimeconfig.json
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\GradeConverter_2-2\GradeConverter_2-2\bin\Debug\netcoreapp3.0\GradeConverter_2-2.runtimeconfig.dev.json
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\GradeConverter_2-2\GradeConverter_2-2\bin\Debug\netcoreapp3.0\GradeConverter_2-2.dll
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\GradeConverter_2-2\GradeConverter_2-2\bin\Debug\netcoreapp3.0\GradeConverter_2-2.pdb
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\GradeConverter_2-2\GradeConverter_2-2\obj\Debug\netcoreapp3.0\GradeConverter_2-2.AssemblyInfoInputs.cache
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\GradeConverter_2-2\GradeConverter_2-2\obj\Debug\netcoreapp3.0\GradeConverter_2-2.AssemblyInfo.cs
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\GradeConverter_2-2\GradeConverter_2-2\obj\Debug\netcoreapp3.0\GradeConverter_2-2.dll
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\GradeConverter_2-2\GradeConverter_2-2\obj\Debug\netcoreapp3.0\GradeConverter_2-2.pdb
