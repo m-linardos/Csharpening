@@ -1,3 +1,11 @@
 C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\obj\Debug\netcoreapp3.0\RectangleCalculator_2-3.csprojAssemblyReference.cache
 C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\obj\Debug\netcoreapp3.0\RectangleCalculator_2-3.AssemblyInfoInputs.cache
 C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\obj\Debug\netcoreapp3.0\RectangleCalculator_2-3.AssemblyInfo.cs
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\bin\Debug\netcoreapp3.0\RectangleCalculator_2-3.exe
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\bin\Debug\netcoreapp3.0\RectangleCalculator_2-3.deps.json
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\bin\Debug\netcoreapp3.0\RectangleCalculator_2-3.runtimeconfig.json
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\bin\Debug\netcoreapp3.0\RectangleCalculator_2-3.runtimeconfig.dev.json
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\bin\Debug\netcoreapp3.0\RectangleCalculator_2-3.dll
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\bin\Debug\netcoreapp3.0\RectangleCalculator_2-3.pdb
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\obj\Debug\netcoreapp3.0\RectangleCalculator_2-3.dll
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\obj\Debug\netcoreapp3.0\RectangleCalculator_2-3.pdb
