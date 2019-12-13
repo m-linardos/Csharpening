@@ -1,0 +1,3 @@
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\obj\Debug\netcoreapp3.0\RectangleCalculator_2-3.csprojAssemblyReference.cache
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\obj\Debug\netcoreapp3.0\RectangleCalculator_2-3.AssemblyInfoInputs.cache
+C:\repos\Csharpening\Murach-Java2Cs\Ch2Projects\RectangleCalculator_2-3\RectangleCalculator_2-3\obj\Debug\netcoreapp3.0\RectangleCalculator_2-3.AssemblyInfo.cs
