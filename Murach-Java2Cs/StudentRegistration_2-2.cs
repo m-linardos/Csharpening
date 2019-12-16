@@ -13,8 +13,7 @@ namespace ConsoleApp1 {
 
 			Console.WriteLine("Enter Year of Birth: ");
 			String stringYOB = Console.ReadLine();
-			//int yOB = Convert.ToInt32(StringYOB);
-
+			
 			Console.WriteLine($"Welcome {firstName} {lastName}!");
 			Console.WriteLine("Your Registration is complete.");
 			Console.WriteLine($"Your temporary password is: {firstName}*{stringYOB}");
