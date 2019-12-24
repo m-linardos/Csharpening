@@ -14,6 +14,8 @@ namespace CsPG_10 {
 			else {
 				Console.WriteLine($"The number {number} is ODD.");
 			}
+			
+			
 			Console.ReadKey();
 		}
 	}
