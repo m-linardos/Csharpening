@@ -3,7 +3,7 @@
 namespace CsPG_10 {
 	class Program {
 		static void Main(string[] args) {
-			Console.WriteLine("Even or Odd");
+			Console.WriteLine("Even or Odd Game");
 			Console.WriteLine("Please enter an integer: ");
 			string numberString = Console.ReadLine();
 			int number = Convert.ToInt16(numberString);
