@@ -5,7 +5,6 @@ namespace RectangleCalculator_2_3 {
 		static void Main(string[] args) {
 			Console.WriteLine("Rectangle Calculator");
 
-
 			// Get Input
 			Console.WriteLine("Enter length: ");
 
