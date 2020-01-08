@@ -11,7 +11,7 @@ namespace _4 {
 			
 			Console.WriteLine(2 + 15 / 6 * 1 - 7 % 2);
 			
-			Console.ReadLine();
+			Console.ReadKey();
 
 		}	}
 }
