@@ -7,7 +7,6 @@ namespace RectangleCalculator_2_3 {
 
 			// Get Input
 			Console.WriteLine("Enter length: ");
-
 			string strLength = Console.ReadLine();
 			decimal length = Convert.ToDecimal(strLength);
 
