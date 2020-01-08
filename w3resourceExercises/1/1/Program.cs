@@ -10,6 +10,7 @@ namespace _4 {
 			Console.WriteLine(14 + -4 * 6 / 11);
 			
 			Console.WriteLine(2 + 15 / 6 * 1 - 7 % 2);
+			
 			Console.ReadLine();
 
 		}	}
