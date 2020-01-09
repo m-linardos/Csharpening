@@ -14,7 +14,6 @@ namespace GradeConverter_2_2 {
 			String stringGradeNumber = Console.ReadLine();
 			int gradeNumber = Convert.ToInt32(stringGradeNumber);
 
-
 			if(gradeNumber > 87) {
 				gradeLetter = "A";
 			}
@@ -38,8 +37,6 @@ namespace GradeConverter_2_2 {
 			//string choice = choice.ToUpper();
 			//continue;
 			Console.ReadKey();
-
-
 
 		}
 	}
