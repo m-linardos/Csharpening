@@ -23,6 +23,7 @@ namespace RectangleCalculator_2_3 {
 			Console.WriteLine($"Perimeter:   {perimeter}");
 
 			Console.WriteLine("Have a Fantastic Day!!");
+			
 			Console.ReadKey();
 
 		}
