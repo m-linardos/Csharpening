@@ -3,6 +3,7 @@
 namespace RectangleCalculator_2_3 {
 	static class Program {
 		static void Main(string[] args) {
+			
 			Console.WriteLine("Rectangle Calculator");
 
 			// Get Input
