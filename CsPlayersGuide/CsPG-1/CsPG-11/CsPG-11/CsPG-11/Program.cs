@@ -39,10 +39,12 @@ namespace CsPG_11 {
 						case "*":
 						case "/":
 						case "%":
+							Console.WriteLine();
 							Console.WriteLine("Good choice !");
 							Console.WriteLine();
 							break;
 						default:
+							Console.WriteLine();
 							Console.WriteLine("REALLY !!!  I'm done with with you !!!");
 							isOperand = false;
 							break;
@@ -51,12 +53,14 @@ namespace CsPG_11 {
 			}
 
 			// Quit if isOperand = false, otherwise continue
-			if(isOperand) {	  
+			if(isOperand) {
 				// Get inputs & convert to double
+				Console.WriteLine();
 				Console.Write("Enter a number: ");
 				string num1Str = Console.ReadLine();
 				double num1 = Convert.ToDouble(num1Str);
 
+				Console.WriteLine();
 				Console.Write("Enter another number: ");
 				string num2Str = Console.ReadLine();
 				double num2 = Convert.ToDouble(num2Str);
