@@ -9,6 +9,7 @@ namespace CsPG_11 {
 		static void Main(string[] args) {
 
 			Console.WriteLine("Welcome to Simple Calculator");
+			bool isOperand = true;
 
 			// Get operand
 			Console.WriteLine("What math function would you like. Choose from  + , - , * , / , % : " );
@@ -35,45 +36,46 @@ namespace CsPG_11 {
 							break;
 						default:
 							Console.WriteLine("REALLY !!!  I'm done with with you !!!");
+							isOperand = false;
 							break;
 					}
 					break;
 			}
 
+			// Quit if isOperand = false, otherwise continue
+			if(isOperand) {	  
+				// Get inputs & convert to double
+				Console.WriteLine("Enter a number: ");
+				string num1Str = Console.ReadLine();
+				double num1 = Convert.ToDouble(num1Str);
 
-			// Get inputs & convert to double
-			Console.WriteLine("Enter a number: ");
-			string num1Str = Console.ReadLine();
-			double num1 = Convert.ToDouble(num1Str);
-			
-			Console.WriteLine("Enter another number: ");
-			string num2Str = Console.ReadLine();
-			double num2 = Convert.ToDouble(num2Str);
+				Console.WriteLine("Enter another number: ");
+				string num2Str = Console.ReadLine();
+				double num2 = Convert.ToDouble(num2Str);
 
-			// Perform calculation based on operand input
-			double result = 0;
-			switch(operand)	{
-				case "+":
-					result = num1 + num2;
-					break;
-				case "-":
-					result = num1 - num2;
-					break;
-				case "*":
-					result = num1 * num2;
-					break;
-				case "/":
-					result = num1 / num2;
-					break;
-				case "%":
-					result = num1 % num2;
-					break;
+				// Perform calculation based on operand input
+				double result = 0;
+				switch(operand) {
+					case "+":
+						result = num1 + num2;
+						break;
+					case "-":
+						result = num1 - num2;
+						break;
+					case "*":
+						result = num1 * num2;
+						break;
+					case "/":
+						result = num1 / num2;
+						break;
+					case "%":
+						result = num1 % num2;
+						break;
 				}
-					
-
-			// Print out the answer
-			Console.WriteLine($"{num1} {operand} {num2} = {result}");
-
+				// Print out the answer
+				Console.WriteLine($"{num1} {operand} {num2} = {result}");
+			} else { }		
+			 
 			Console.ReadKey();		 	
 
 		}
