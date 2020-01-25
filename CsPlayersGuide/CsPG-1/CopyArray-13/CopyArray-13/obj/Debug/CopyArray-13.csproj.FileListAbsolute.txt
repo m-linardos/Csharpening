@@ -1,0 +1,6 @@
+C:\repos\Csharpening\CsPlayersGuide\CopyArray-13\CopyArray-13\bin\Debug\CopyArray-13.exe.config
+C:\repos\Csharpening\CsPlayersGuide\CopyArray-13\CopyArray-13\bin\Debug\CopyArray-13.exe
+C:\repos\Csharpening\CsPlayersGuide\CopyArray-13\CopyArray-13\bin\Debug\CopyArray-13.pdb
+C:\repos\Csharpening\CsPlayersGuide\CopyArray-13\CopyArray-13\obj\Debug\CopyArray-13.csprojAssemblyReference.cache
+C:\repos\Csharpening\CsPlayersGuide\CopyArray-13\CopyArray-13\obj\Debug\CopyArray-13.exe
+C:\repos\Csharpening\CsPlayersGuide\CopyArray-13\CopyArray-13\obj\Debug\CopyArray-13.pdb
