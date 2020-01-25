@@ -69,7 +69,7 @@ namespace CsPG_11 {
 			}
 
 			// Print out the answer
-			Console.WriteLine($"{num1} + {operand} + {num2} = {result}");
+			Console.WriteLine($"{num1} {operand} {num2} = {result}");
 
 			Console.ReadKey();
 
