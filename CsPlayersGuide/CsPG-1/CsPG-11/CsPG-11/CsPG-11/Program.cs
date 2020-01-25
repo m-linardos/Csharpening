@@ -23,7 +23,7 @@ namespace CsPG_11 {
 				case "*":
 				case "/":
 				case "%":
-					Console.WriteLine("Good choice !");
+					Console.WriteLine("Good choice!");
 					Console.WriteLine();
 					break;
 				default:
@@ -40,7 +40,7 @@ namespace CsPG_11 {
 						case "/":
 						case "%":
 							Console.WriteLine();
-							Console.WriteLine("Good choice !");
+							Console.WriteLine("Good choice!");
 							Console.WriteLine();
 							break;
 						default:
