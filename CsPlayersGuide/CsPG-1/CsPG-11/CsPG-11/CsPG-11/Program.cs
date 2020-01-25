@@ -27,6 +27,7 @@ namespace CsPG_11 {
 					Console.WriteLine();
 					break;
 				default:
+					Console.WriteLine();
 					Console.WriteLine("That is not an option");
 					Console.WriteLine();
 					Console.Write("What math function would you like.  Choose from  + , - , * , / , % : ");
@@ -39,6 +40,7 @@ namespace CsPG_11 {
 						case "/":
 						case "%":
 							Console.WriteLine("Good choice !");
+							Console.WriteLine();
 							break;
 						default:
 							Console.WriteLine("REALLY !!!  I'm done with with you !!!");
