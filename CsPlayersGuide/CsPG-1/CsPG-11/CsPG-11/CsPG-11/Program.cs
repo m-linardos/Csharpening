@@ -9,10 +9,13 @@ namespace CsPG_11 {
 		static void Main(string[] args) {
 
 			Console.WriteLine("Welcome to Simple Calculator");
+			Console.WriteLine();
+			Console.WriteLine();
 			bool isOperand = true;
 
 			// Get operand
-			Console.WriteLine("What math function would you like. Choose from  + , - , * , / , % : " );
+			Console.Write("What math function would you like. Choose from  + , - , * , / , % : " );
+			Console.WriteLine();
 			string operand = Console.ReadLine();
 			switch(operand) {
 				case "+":
@@ -21,10 +24,13 @@ namespace CsPG_11 {
 				case "/":
 				case "%":
 					Console.WriteLine("Good choice !");
+					Console.WriteLine();
 					break;
 				default:
 					Console.WriteLine("That is not an option");
-					Console.WriteLine("What math function would you like.  Choose from  + , - , * , / , % : ");
+					Console.WriteLine();
+					Console.Write("What math function would you like.  Choose from  + , - , * , / , % : ");
+					Console.WriteLine();
 					operand = Console.ReadLine();
 					switch(operand) {
 						case "+":
@@ -45,11 +51,11 @@ namespace CsPG_11 {
 			// Quit if isOperand = false, otherwise continue
 			if(isOperand) {	  
 				// Get inputs & convert to double
-				Console.WriteLine("Enter a number: ");
+				Console.Write("Enter a number: ");
 				string num1Str = Console.ReadLine();
 				double num1 = Convert.ToDouble(num1Str);
 
-				Console.WriteLine("Enter another number: ");
+				Console.Write("Enter another number: ");
 				string num2Str = Console.ReadLine();
 				double num2 = Convert.ToDouble(num2Str);
 
@@ -73,6 +79,7 @@ namespace CsPG_11 {
 						break;
 				}
 				// Print out the answer
+				Console.WriteLine();
 				Console.WriteLine($"{num1} {operand} {num2} = {result}");
 			} else { }		
 			 
