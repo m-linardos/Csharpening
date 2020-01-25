@@ -12,17 +12,21 @@ namespace CsPG_12_FizzBuzz {
 			Console.WriteLine();
 			// Loop through #s 1-100
 			for(num = 1; num < 101; num++) 
-			{					
-				if(num % 3 == 0) {
-					Console.Write("Fizz");						
+			{
+				// Print FizzBuzz if multiple of both 3 & 5
+				if(num % 3 == 0 && num % 5 == 0) {
+					Console.Write("FizzBuzz");
 				}
-				 else if(num % 5 == 0) {
+				// Print Fizz if multiple of 3
+				else if(num % 3 == 0) {
+					Console.Write("Fizz");
+				 }
+				//  Print Buzz if multiple of 5
+				else if(num % 5 == 0) {
 					Console.Write("Buzz");
 				 }
-				 else if(num % 3 == 0 && num % 5 == 0) {
-					Console.Write("FizzBuzz");
-				 }
-				 else {
+				//  Otherwise print the number 'num'
+				else {
 					Console.Write(num);
 				 }
 				Console.Write(" ");
