@@ -1,0 +1,6 @@
+C:\repos\Csharpening\CsPlayersGuide\CsPG-11\CsPG-11\bin\Debug\CsPG-11.exe.config
+C:\repos\Csharpening\CsPlayersGuide\CsPG-11\CsPG-11\bin\Debug\CsPG-11.exe
+C:\repos\Csharpening\CsPlayersGuide\CsPG-11\CsPG-11\bin\Debug\CsPG-11.pdb
+C:\repos\Csharpening\CsPlayersGuide\CsPG-11\CsPG-11\obj\Debug\CsPG-11.csprojAssemblyReference.cache
+C:\repos\Csharpening\CsPlayersGuide\CsPG-11\CsPG-11\obj\Debug\CsPG-11.exe
+C:\repos\Csharpening\CsPlayersGuide\CsPG-11\CsPG-11\obj\Debug\CsPG-11.pdb
