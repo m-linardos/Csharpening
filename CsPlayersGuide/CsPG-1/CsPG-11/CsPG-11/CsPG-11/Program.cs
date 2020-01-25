@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CsPG_11 {
 	class Program {
 		static void Main(string[] args) {
-
+			Console.WriteLine();
 			Console.WriteLine("	Welcome to Simple Calculator");
 			Console.WriteLine();
 			Console.WriteLine();
