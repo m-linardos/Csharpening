@@ -1,0 +1,6 @@
+C:\repos\Csharpening\CsPlayersGuide\MinAndAvg-ForEach-13\MinAndAvg-ForEach-13\obj\Debug\MinAndAvg-ForEach-13.csprojAssemblyReference.cache
+C:\repos\Csharpening\CsPlayersGuide\MinAndAvg-ForEach-13\MinAndAvg-ForEach-13\bin\Debug\MinAndAvg-ForEach-13.exe.config
+C:\repos\Csharpening\CsPlayersGuide\MinAndAvg-ForEach-13\MinAndAvg-ForEach-13\bin\Debug\MinAndAvg-ForEach-13.exe
+C:\repos\Csharpening\CsPlayersGuide\MinAndAvg-ForEach-13\MinAndAvg-ForEach-13\bin\Debug\MinAndAvg-ForEach-13.pdb
+C:\repos\Csharpening\CsPlayersGuide\MinAndAvg-ForEach-13\MinAndAvg-ForEach-13\obj\Debug\MinAndAvg-ForEach-13.exe
+C:\repos\Csharpening\CsPlayersGuide\MinAndAvg-ForEach-13\MinAndAvg-ForEach-13\obj\Debug\MinAndAvg-ForEach-13.pdb
