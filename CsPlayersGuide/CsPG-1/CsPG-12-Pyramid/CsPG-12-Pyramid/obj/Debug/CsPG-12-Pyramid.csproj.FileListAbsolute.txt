@@ -1,0 +1,6 @@
+C:\repos\Csharpening\CsPlayersGuide\CsPG-12-Pyramid\CsPG-12-Pyramid\bin\Debug\CsPG-12-Pyramid.exe.config
+C:\repos\Csharpening\CsPlayersGuide\CsPG-12-Pyramid\CsPG-12-Pyramid\bin\Debug\CsPG-12-Pyramid.exe
+C:\repos\Csharpening\CsPlayersGuide\CsPG-12-Pyramid\CsPG-12-Pyramid\bin\Debug\CsPG-12-Pyramid.pdb
+C:\repos\Csharpening\CsPlayersGuide\CsPG-12-Pyramid\CsPG-12-Pyramid\obj\Debug\CsPG-12-Pyramid.csprojAssemblyReference.cache
+C:\repos\Csharpening\CsPlayersGuide\CsPG-12-Pyramid\CsPG-12-Pyramid\obj\Debug\CsPG-12-Pyramid.exe
+C:\repos\Csharpening\CsPlayersGuide\CsPG-12-Pyramid\CsPG-12-Pyramid\obj\Debug\CsPG-12-Pyramid.pdb
