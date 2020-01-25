@@ -11,15 +11,15 @@ namespace MinAndAvg_ForEach_13 {
 
 			// Print array values
 			Console.WriteLine("The numbers of array are ");
-			for(var i = 0; i < array.Length; i++ ) {
-				Console.Write(array[i] + " ");	
+			for(varnumber= 0;number< array.Length; i++ ) {
+				Console.Write(array[number] + " ");	
 			}
 
 			// Find Min. Value
-			int currentMin = int.MaxValue;
-			foreach(var i in array) {
-				if(array[i] < array.Length) {
-					currentMin = array[i];
+			int currentMin = Int32.MaxValue;
+			foreach(var number in array) {
+				if(number < array.Length) {
+					currentMin = number;
 				}
 			}
 			Console.WriteLine($"The Min Value is {currentMin}");
@@ -28,8 +28,8 @@ namespace MinAndAvg_ForEach_13 {
 			// Find Avg Value
 			int currentTotal = 0;
 			float currentAvg = 0;
-			foreach(var i in array) {
-				currentTotal += array[i];
+			foreach(var number in array) {
+				currentTotal += array[number];
 			}
 			currentAvg = currentTotal / array.Length;
 
