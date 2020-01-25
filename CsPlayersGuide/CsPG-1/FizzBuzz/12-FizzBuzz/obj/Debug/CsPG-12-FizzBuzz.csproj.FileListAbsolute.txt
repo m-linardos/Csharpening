@@ -1,0 +1,6 @@
+C:\repos\Csharpening\CsPlayersGuide\12-FizzBuzz\12-FizzBuzz\bin\Debug\12-FizzBuzz.exe.config
+C:\repos\Csharpening\CsPlayersGuide\12-FizzBuzz\12-FizzBuzz\bin\Debug\12-FizzBuzz.exe
+C:\repos\Csharpening\CsPlayersGuide\12-FizzBuzz\12-FizzBuzz\bin\Debug\12-FizzBuzz.pdb
+C:\repos\Csharpening\CsPlayersGuide\12-FizzBuzz\12-FizzBuzz\obj\Debug\CsPG-12-FizzBuzz.csprojAssemblyReference.cache
+C:\repos\Csharpening\CsPlayersGuide\12-FizzBuzz\12-FizzBuzz\obj\Debug\12-FizzBuzz.exe
+C:\repos\Csharpening\CsPlayersGuide\12-FizzBuzz\12-FizzBuzz\obj\Debug\12-FizzBuzz.pdb
