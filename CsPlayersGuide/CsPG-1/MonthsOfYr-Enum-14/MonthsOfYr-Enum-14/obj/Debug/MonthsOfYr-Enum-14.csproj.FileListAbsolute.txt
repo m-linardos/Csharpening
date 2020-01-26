@@ -1,0 +1,6 @@
+C:\repos\Csharpening\CsPlayersGuide\MonthsOfYr-Enum-14\MonthsOfYr-Enum-14\bin\Debug\MonthsOfYr-Enum-14.exe.config
+C:\repos\Csharpening\CsPlayersGuide\MonthsOfYr-Enum-14\MonthsOfYr-Enum-14\bin\Debug\MonthsOfYr-Enum-14.exe
+C:\repos\Csharpening\CsPlayersGuide\MonthsOfYr-Enum-14\MonthsOfYr-Enum-14\bin\Debug\MonthsOfYr-Enum-14.pdb
+C:\repos\Csharpening\CsPlayersGuide\MonthsOfYr-Enum-14\MonthsOfYr-Enum-14\obj\Debug\MonthsOfYr-Enum-14.csprojAssemblyReference.cache
+C:\repos\Csharpening\CsPlayersGuide\MonthsOfYr-Enum-14\MonthsOfYr-Enum-14\obj\Debug\MonthsOfYr-Enum-14.exe
+C:\repos\Csharpening\CsPlayersGuide\MonthsOfYr-Enum-14\MonthsOfYr-Enum-14\obj\Debug\MonthsOfYr-Enum-14.pdb
