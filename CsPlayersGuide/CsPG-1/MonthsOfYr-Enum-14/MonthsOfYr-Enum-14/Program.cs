@@ -22,7 +22,7 @@ namespace MonthsOfYr_Enum_14 {
 			if(number > 0 && number <= 12) {
 				Console.WriteLine();
 				MonthsOfYr month = (MonthsOfYr)number;
-				Console.WriteLine("The month of the year is {month}.");
+				Console.WriteLine($"The month of the year is {month}.");
 			}
 			else {
 				Console.WriteLine();
