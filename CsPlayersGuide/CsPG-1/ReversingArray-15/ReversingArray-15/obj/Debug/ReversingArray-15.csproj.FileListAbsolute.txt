@@ -1,0 +1,6 @@
+C:\repos\Csharpening\CsPlayersGuide\ReversingArray-15\ReversingArray-15\bin\Debug\ReversingArray-15.exe.config
+C:\repos\Csharpening\CsPlayersGuide\ReversingArray-15\ReversingArray-15\bin\Debug\ReversingArray-15.exe
+C:\repos\Csharpening\CsPlayersGuide\ReversingArray-15\ReversingArray-15\bin\Debug\ReversingArray-15.pdb
+C:\repos\Csharpening\CsPlayersGuide\ReversingArray-15\ReversingArray-15\obj\Debug\ReversingArray-15.csprojAssemblyReference.cache
+C:\repos\Csharpening\CsPlayersGuide\ReversingArray-15\ReversingArray-15\obj\Debug\ReversingArray-15.exe
+C:\repos\Csharpening\CsPlayersGuide\ReversingArray-15\ReversingArray-15\obj\Debug\ReversingArray-15.pdb
