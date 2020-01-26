@@ -1,0 +1,6 @@
+C:\repos\Csharpening\CsPlayersGuide\DieRolling-17\DieRolling-17\obj\Debug\DieRolling-17.csprojAssemblyReference.cache
+C:\repos\Csharpening\CsPlayersGuide\DieRolling-17\DieRolling-17\bin\Debug\DieRolling-17.exe.config
+C:\repos\Csharpening\CsPlayersGuide\DieRolling-17\DieRolling-17\bin\Debug\DieRolling-17.exe
+C:\repos\Csharpening\CsPlayersGuide\DieRolling-17\DieRolling-17\bin\Debug\DieRolling-17.pdb
+C:\repos\Csharpening\CsPlayersGuide\DieRolling-17\DieRolling-17\obj\Debug\DieRolling-17.exe
+C:\repos\Csharpening\CsPlayersGuide\DieRolling-17\DieRolling-17\obj\Debug\DieRolling-17.pdb
