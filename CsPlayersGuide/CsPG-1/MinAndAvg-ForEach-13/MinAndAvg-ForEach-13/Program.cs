@@ -36,7 +36,6 @@ namespace MinAndAvg_ForEach_13 {
 			Console.WriteLine($"The Avg Value is {currentAvg}");
 			Console.WriteLine();
 
-
 		}
 	}
 }
