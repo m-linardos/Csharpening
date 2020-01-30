@@ -32,7 +32,6 @@ namespace CsPG_12_FizzBuzz {
 				Console.Write(" ");
 			}
 			Console.ReadKey();
-
 		}
 	}
 }
