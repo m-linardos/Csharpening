@@ -21,6 +21,9 @@ namespace BuildClasses_18 {
 
 			// Throw myBall a few times.
 			yourBall.Throw();
+			myBall.Throw();
+			myBall.Throw();
+			myBall.Throw();
 
 		
 	}
