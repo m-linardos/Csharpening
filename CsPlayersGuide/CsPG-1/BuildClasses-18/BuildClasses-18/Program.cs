@@ -20,7 +20,7 @@ namespace BuildClasses_18 {
 			Ball kickBall = new Ball(new Color(220, 20, 60), 10);
 
 			// Throw myBall a few times.
-			myBall.Throw();
+			yourBall.Throw();
 
 		
 	}

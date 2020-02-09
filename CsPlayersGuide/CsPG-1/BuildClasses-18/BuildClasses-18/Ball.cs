@@ -19,14 +19,14 @@ namespace BuildClasses_18 {
 		/// Popped the ball.
 		/// </summary>
 		public void Popped() {
-			this.circumfrance = 0;
+			circumfrance = 0;
 		}
 
 		/// <summary>
 		/// Throws the ball, adding it to the number of passes.
 		/// </summary>
 		/// <param name="passes">The passes.</param>
-		public void Throw (int passes) {
+		public void Throw () {
 			if(circumfrance != 0) {
 				passes++;
 			}
