@@ -11,7 +11,7 @@ namespace BuildClasses_18 {
 	class Ball {
 	//
 		private Color color;
-		private int circumfrance;
+		private float circumfrance;
 		private int passes;
 
 
@@ -38,6 +38,17 @@ namespace BuildClasses_18 {
 		/// <returns>passes</returns>
 		public int GetPasses() {
 			return passes;
+		}
+
+		public Ball(Color color, float circumfrance, int passes ) {
+			this.color = color;
+			this.circumfrance = circumfrance;
+			this.passes = passes;
+				
+		}
+
+		public Ball() {
+
 		}
 
 	}
