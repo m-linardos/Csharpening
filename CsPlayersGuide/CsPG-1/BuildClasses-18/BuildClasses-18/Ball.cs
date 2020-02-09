@@ -12,7 +12,7 @@ namespace BuildClasses_18 {
 	//
 		private Color color;
 		private float circumfrance;
-		private int passes;
+		private int passes = 0;
 
 
 		/// <summary>
@@ -28,7 +28,7 @@ namespace BuildClasses_18 {
 		/// <param name="passes">The passes.</param>
 		public void Throw (int passes) {
 			if(circumfrance != 0) {
-				this.passes = passes + 1;
+				passes++;
 			}
 		}
 
@@ -45,6 +45,12 @@ namespace BuildClasses_18 {
 			this.circumfrance = circumfrance;
 			this.passes = passes;
 				
+		}
+
+		public Ball(Color color, float circumfrance) {
+			this.color = color;
+			this.circumfrance = circumfrance;
+			this.passes = 0;
 		}
 
 		public Ball() {
